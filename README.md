@@ -1,4 +1,4 @@
-# Friday
+# Friday-Bot
 ## Voice-Controlled Assistant with Gesture Recognition Cursor Control
 
 Friday is a voice-controlled assistant built in Python. It allows users to interact with their computer using voice commands, perform various tasks, and obtain information from the web. This project utilizes several libraries and technologies to enable voice recognition, text-to-speech conversion, web browsing, file management, and more.
